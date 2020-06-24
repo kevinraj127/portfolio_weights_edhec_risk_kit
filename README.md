@@ -1,4 +1,4 @@
-# Finding the Global Minimum Variance Portfolio Based on Given Stocks/Mutual Funds 
+# Calculating the Global Minimum Variance Portfolio Based on Given Stocks/Mutual Funds 
 
 SOURCE: Code used from Investment Management with Python and Machine Learning - EDHEC Business School - Coursera Course (edhec_risk_kit).
 
