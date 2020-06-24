@@ -1,3 +1,5 @@
+#Python code from the Introduction to Portfolio Construction and Analysis with Python course offered by the EDHEC Business School through Coursera.
+
 import pandas as pd
 import numpy as np
 
